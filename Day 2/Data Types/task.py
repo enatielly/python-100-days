@@ -7,6 +7,7 @@ print("Hello"[4])
 
 print("Hello"[-1])
 
+# Primitive data types
 # String
 print("123" + "123")
 
